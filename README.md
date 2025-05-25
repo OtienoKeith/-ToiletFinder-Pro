@@ -96,7 +96,7 @@ Find clean, accessible public restrooms in major cities worldwide! Currently ser
 
 ### Installation
 
-1.  \# Clone or download the repositorygit clone https://github.com/yourusername/toiletfinder-pro.gitcd toiletfinder-pro
+1.  \# Clone or download the repositorygit clone [https://github.com/yourusername/toiletfinder-pro.gitcd toiletfinder-pro](https://github.com/OtienoKeith/-ToiletFinder-Pro)
     
 2.  \# Simply open the index.html file in your preferred browseropen index.html# orpython -m http.server 8000 # For local development server
     

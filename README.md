@@ -201,12 +201,6 @@ Find clean, accessible public restrooms in major cities worldwide! Currently ser
 *   **Breakpoints**: Mobile-first responsive design
     
 
-🔧 Customization
-----------------
-
-### Adding New Locations
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   // Add to toiletData array in index.html  {      id: 16,      name: "New Facility Name",      lat: 40.7589,      lng: -73.9851,      type: "Public Park",      status: "open",      hours: "6:00 AM - 10:00 PM",      accessible: true,      babyChanging: true,      cost: "Free",      rating: 4.2,      reviews: 127,      amenities: ["Wheelchair Access", "Baby Changing"],      description: "Facility description",      city: "City Name",      country: "Country"  }   `
 
 ### Styling Modifications
 
